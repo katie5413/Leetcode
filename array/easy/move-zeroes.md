@@ -1,8 +1,8 @@
 # Move Zeroes
 
-Given an integer array `nums`, move all `0`'s to the end of it while maintaining the relative order of the non-zero elements.
+Given an integer array `nums`, move all `0`'s to the end of it while maintaining the relative order of the non-zero elements.
 
-**Note** that you must do this in-place without making a copy of the array.
+**Note** that you must do this in-place without making a copy of the array.
 
 **Example 1:**
 
@@ -22,8 +22,8 @@ Output: [0]
 
 **Constraints:**
 
-- `1 <= nums.length <= 104`
-- `231 <= nums[i] <= 231 - 1`
+* `1 <= nums.length <= 10^4`
+* `2^31 <= nums[i] <= 2^31 - 1`
 
 **Follow up:**
 
