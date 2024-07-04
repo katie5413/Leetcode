@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Array](README.md)
+* [前言](README.md)
+* [Array](<README (1).md>)
   * [Easy](array/easy/README.md)
     * [Best Time to Buy and Sell Stock II](array/easy/best-time-to-buy-and-sell-stock-II.md)
     * [Contains Duplicate](array/easy/contains-duplicate.md)
@@ -27,4 +28,3 @@
     * [Longest Ideal Subsequence](string/medium/longest-ideal-subsequence.md)
     * [Longest Substring Without Repeating Characters](string/medium/longest-substring-without-repeating-characters.md)
     * [Reverse Integer](string/medium/reverse-integer.md)
-* [前言](qian-yan.md)
