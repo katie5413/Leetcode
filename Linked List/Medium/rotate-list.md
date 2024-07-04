@@ -4,7 +4,7 @@ Given the `head` of a linked list, rotate the list to the right by `k` plac
 
 **Example 1:**
 
-!https://assets.leetcode.com/uploads/2020/11/13/rotate1.jpg
+![]https://assets.leetcode.com/uploads/2020/11/13/rotate1.jpg
 
 ```
 Input: head = [1,2,3,4,5], k = 2
@@ -14,7 +14,7 @@ Output: [4,5,1,2,3]
 
 **Example 2:**
 
-!https://assets.leetcode.com/uploads/2020/11/13/roate2.jpg
+![]https://assets.leetcode.com/uploads/2020/11/13/roate2.jpg
 
 ```
 Input: head = [0,1,2], k = 4
@@ -28,7 +28,7 @@ Output: [2,0,1]
 - `100 <= Node.val <= 100`
 - `0 <= k <= 2 * 10^9`
 
-## ChatGPT 的回答
+## 步驟
 
 - **計算鏈表的長度**：這樣我們就可以知道鏈表中有多少個節點。
 - **計算實際需要旋轉的步數**：由於旋轉次數可能超過鏈表的長度，實際旋轉次數可以用 `k % length` 來計算。

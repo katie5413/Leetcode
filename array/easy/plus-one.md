@@ -92,8 +92,6 @@ var plusOne = function(digits) {
 };
 ```
 
-## ChatGPT 的回答
-
 ```tsx
 function plusOne(digits: number[]): number[] {
     // 從最右邊的位數開始處理

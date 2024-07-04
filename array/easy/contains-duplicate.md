@@ -47,7 +47,7 @@ var containsDuplicate = function(nums) {
 };
 ```
 
-## ChatGPT 的回答
+## Set
 
 ```tsx
 function containsDuplicate(nums: number[]): boolean {

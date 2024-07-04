@@ -54,8 +54,6 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 Note. 根據規則這裡的做法是要回傳不重複的數字有幾個
 
-## ChatGPT 的答案
-
 ```tsx
 function removeDuplicates(nums: number[]): number {
     let k = 1; // 初始化唯一元素的計數器
