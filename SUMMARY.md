@@ -1,7 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
-* [Array](<README (1).md>)
+* [Array](array/README.md)
   * [Easy](array/easy/README.md)
     * [Best Time to Buy and Sell Stock II](array/easy/best-time-to-buy-and-sell-stock-II.md)
     * [Contains Duplicate](array/easy/contains-duplicate.md)
@@ -16,7 +16,7 @@
     * [Valid Sudoku](array/easy/valid-sudoku.md)
   * [Medium](array/medium/README.md)
     * [3Sum](array/medium/3sum.md)
-    * [Minimum Difference Between Largest and Smallest Value in Three Moves](readme/medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.md)
+    * [Minimum Difference Between Largest and Smallest Value in Three Moves](array/medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.md)
 * [Linked List](linked-list/README.md)
   * [Medium](linked-list/medium/README.md)
     * [Merge Nodes in Between Zeros](linked-list/medium/merge-nodes-in-between-zeros.md)
