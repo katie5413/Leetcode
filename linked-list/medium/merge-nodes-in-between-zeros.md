@@ -1,4 +1,4 @@
-# **Merge Nodes in Between Zeros**
+# Merge Nodes in Between Zeros
 
 You are given the `head` of a linked list, which contains a series of integers **separated** by `0`'s. The **beginning** and **end** of the linked list will have `Node.val == 0`.
 
