@@ -24,6 +24,7 @@
 * [String](string/README.md)
   * [Easy](string/easy/README.md)
     * [Reverse String](string/easy/reverse-string.md)
+    * [Roman to Integer](string/easy/roman-to-integer.md)
   * [Medium](string/medium/README.md)
     * [Longest Ideal Subsequence](string/medium/longest-ideal-subsequence.md)
     * [Longest Substring Without Repeating Characters](string/medium/longest-substring-without-repeating-characters.md)
