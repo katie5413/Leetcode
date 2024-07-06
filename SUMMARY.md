@@ -30,3 +30,6 @@
     * [Longest Ideal Subsequence](string/medium/longest-ideal-subsequence.md)
     * [Longest Substring Without Repeating Characters](string/medium/longest-substring-without-repeating-characters.md)
     * [Reverse Integer](string/medium/reverse-integer.md)
+* [Math](math/README.md)
+  * [Easy](math/easy/README.md)
+    * [Pass the Pillow](math/easy/pass-the-pillow.md)
