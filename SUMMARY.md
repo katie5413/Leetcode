@@ -34,3 +34,4 @@
 * [Math](math/README.md)
   * [Easy](math/easy/README.md)
     * [Pass the Pillow](math/easy/pass-the-pillow.md)
+    * [Water Bottles](math/easy/water-bottles.md)
