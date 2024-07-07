@@ -16,6 +16,7 @@
     * [Valid Sudoku](array/easy/valid-sudoku.md)
   * [Medium](array/medium/README.md)
     * [3Sum](array/medium/3sum.md)
+    * [Find the Student that Will Replace the Chalk](array/medium/find-the-student-that-will-replace-the-chalk.md)
     * [Minimum Difference Between Largest and Smallest Value in Three Moves](array/medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.md)
 * [Linked List](linked-list/README.md)
   * [Medium](linked-list/medium/README.md)
