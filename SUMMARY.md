@@ -35,3 +35,6 @@
   * [Easy](math/easy/README.md)
     * [Pass the Pillow](math/easy/pass-the-pillow.md)
     * [Water Bottles](math/easy/water-bottles.md)
+* [Dynamic Programming](dynamic-programming/README.md)
+  * [Medium](dynamic-programming/medium/README.md)
+    * [Perfect Squares](dynamic-programming/medium/perfect-squares.md)
