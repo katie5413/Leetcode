@@ -1,6 +1,6 @@
-# Integer to Roman
+# Integer to Roman (M)
 
-Related to [roman-to-integer.md](../easy/roman-to-integer.md "mention")
+Related to [roman-to-integer-e.md](roman-to-integer-e.md "mention")
 
 Seven different symbols represent Roman numerals with the following values:
 
