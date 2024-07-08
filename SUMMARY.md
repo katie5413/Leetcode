@@ -32,3 +32,4 @@
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
   * [Perfect Squares (M)](dynamic-programming/perfect-squares-m.md)
+  * [Min Cost Climbing Stairs (E)](dynamic-programming/min-cost-climbing-stairs-e.md)
