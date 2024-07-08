@@ -29,6 +29,7 @@
 * [Math](math/README.md)
   * [Pass the Pillow (E)](math/pass-the-pillow-e.md)
   * [Water Bottles (E)](math/water-bottles-e.md)
+  * [Find the Winner of the Circular Game (M)](math/find-the-winner-of-the-circular-game-m.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
   * [Perfect Squares (M)](dynamic-programming/perfect-squares-m.md)
