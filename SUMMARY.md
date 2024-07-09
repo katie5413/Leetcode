@@ -27,6 +27,7 @@
   * [Longest Substring Without Repeating Characters (M)](string/longest-substring-without-repeating-characters-m.md)
   * [Reverse Integer (M)](string/reverse-integer-m.md)
   * [Palindromic Substrings (M)](string/palindromic-substrings-m.md)
+  * [Longest Palindromic Substring (M)](string/longest-palindromic-substring-m.md)
 * [Math](math/README.md)
   * [Pass the Pillow (E)](math/pass-the-pillow-e.md)
   * [Water Bottles (E)](math/water-bottles-e.md)
