@@ -39,3 +39,5 @@
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
   * [Min Cost Climbing Stairs (E)](dynamic-programming/min-cost-climbing-stairs-e.md)
   * [Perfect Squares (M)](dynamic-programming/perfect-squares-m.md)
+* [Stack](stack/README.md)
+  * [Maximum Score From Removing Substrings (M)](stack/maximum-score-from-removing-substrings-m.md)
