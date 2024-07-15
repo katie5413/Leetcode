@@ -1,5 +1,7 @@
 # Create Binary Tree From Descriptions (M)
 
+[2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)
+
 You are given a 2D integer array `descriptions` where `descriptions[i] = [parent_i, child_i, isLeft_i]` indicates that `parent_i` is the **parent** of `child_i` in a **binary** tree of **unique** values. Furthermore,
 
 * If `isLeft_i == 1`, then `child_i` is the left child of `parent_i`.

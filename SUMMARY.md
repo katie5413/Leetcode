@@ -25,6 +25,7 @@
   * [Roman to Integer (E)](string/roman-to-integer-e.md)
   * [First Unique Character in a String (E)](string/first-unique-character-in-a-string-e.md)
   * [Valid Anagram (E)](string/valid-anagram-e.md)
+  * [Group Anagrams (M)](string/group-anagrams-m.md)
   * [Integer to Roman (M)](string/integer-to-roman-m.md)
   * [Longest Ideal Subsequence (M)](string/longest-ideal-subsequence-m.md)
   * [Longest Substring Without Repeating Characters (M)](string/longest-substring-without-repeating-characters-m.md)
