@@ -42,3 +42,5 @@
 * [Stack](stack/README.md)
   * [Maximum Score From Removing Substrings (M)](stack/maximum-score-from-removing-substrings-m.md)
   * [Number of Atoms (H)](stack/number-of-atoms-h.md)
+* [Tree](tree/README.md)
+  * [Create Binary Tree From Descriptions (M)](tree/create-binary-tree-from-descriptions-m.md)
