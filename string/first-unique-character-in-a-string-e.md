@@ -26,7 +26,7 @@ Given a string `s`, _find the first non-repeating character in it and return its
 
 **Constraints:**
 
-* `1 <= s.length <= 105`
+* `1 <= s.length <= 10^5`
 * `s` consists of only lowercase English letters.
 
 ### 迴圈＋計數
