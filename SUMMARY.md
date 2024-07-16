@@ -28,6 +28,7 @@
   * [Valid Anagram (E)](string/valid-anagram-e.md)
   * [Group Anagrams (M)](string/group-anagrams-m.md)
   * [Integer to Roman (M)](string/integer-to-roman-m.md)
+  * [String to Integer (atoi) (M)](string/string-to-integer-atoi-m.md)
   * [Longest Ideal Subsequence (M)](string/longest-ideal-subsequence-m.md)
   * [Longest Substring Without Repeating Characters (M)](string/longest-substring-without-repeating-characters-m.md)
   * [Reverse Integer (M)](string/reverse-integer-m.md)
