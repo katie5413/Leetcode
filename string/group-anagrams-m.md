@@ -100,11 +100,17 @@ function groupAnagrams(strs: string[]): string[][] {
     // Return all the values in the map as an array of anagram groups
     return Array.from(map.values());
 }
+
+function primeHash(str: string): number {
+    // Array of prime numbers corresponding to letters a to z
+    const primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101];
+
+    // Calculate the hash value by multiplying the prime numbers corresponding to each character
+    return Array.from(str).reduce((prev, curr) => prev * primes[curr.charCodeAt(0) - 97], 1);
+}
 ```
 
-
-
-primeHash 函數是一個用來計算字串哈希值的函數，通常用於將異位詞映射到同一個哈希值。雖然具體的實現可能有所不同，但以下是一個典型的 primeHash 函數的基本概念：
+primeHash 函數是一個用來計算字串哈希值的函數，通常用於將異位詞映射到同一個哈希值。
 
 
 
@@ -113,34 +119,6 @@ primeHash 函數是一個用來計算字串哈希值的函數，通常用於將�
 1\. 質數的使用： 使用質數可以有效地減少哈希碰撞的機會，因為質數的特性有助於更均勻地分佈哈希值。
 
 2\. 字符的乘積： 通過將字串中的每個字符的 ASCII 值乘以一個對應的質數，來生成一個獨特的哈希值。
-
-
-
-範例實現
-
-以下是一個簡單的 primeHash 函數範例：
-
-```typescript
-function primeHash(str: string): number {
-    const primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101];
-    let hash = 1;
-
-    for (let i = 0; i < str.length; i++) {
-        // 取得字母對應的質數，並乘到哈希值上
-        hash *= primes[str.charCodeAt(i) - 'a'.charCodeAt(0)];
-    }
-
-    return hash;
-}
-```
-
-1\.  質數陣列： primes 陣列包含了小於 100 的前 25 個質數，對應於英文字母 a 到 z。
-
-2\. 初始哈希值： hash 變數初始化為 1，因為我們會將所有質數乘起來。
-
-3\. 遍歷字串： 使用 for 迴圈遍歷字串中的每個字符，計算其 ASCII 值並對應到 primes 陣列中。
-
-4\. 計算哈希值： 將每個字符對應的質數與當前的 hash 相乘，生成最終的哈希值。
 
 
 
