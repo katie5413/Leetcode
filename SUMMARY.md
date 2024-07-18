@@ -52,6 +52,7 @@
   * [Maximum Score From Removing Substrings (M)](stack/maximum-score-from-removing-substrings-m.md)
   * [Number of Atoms (H)](stack/number-of-atoms-h.md)
 * [Tree](tree/README.md)
+  * [Subtree of Another Tree (E)](tree/subtree-of-another-tree-e.md)
   * [Create Binary Tree From Descriptions (M)](tree/create-binary-tree-from-descriptions-m.md)
   * [Step-By-Step Directions From a Binary Tree Node to Another (M)](tree/step-by-step-directions-from-a-binary-tree-node-to-another-m.md)
   * [Delete Nodes And Return Forest (M)](tree/delete-nodes-and-return-forest-m.md)
