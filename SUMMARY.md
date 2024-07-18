@@ -54,3 +54,4 @@
   * [Create Binary Tree From Descriptions (M)](tree/create-binary-tree-from-descriptions-m.md)
   * [Step-By-Step Directions From a Binary Tree Node to Another (M)](tree/step-by-step-directions-from-a-binary-tree-node-to-another-m.md)
   * [Delete Nodes And Return Forest (M)](tree/delete-nodes-and-return-forest-m.md)
+  * [Number of Good Leaf Nodes Pairs (M)](tree/number-of-good-leaf-nodes-pairs-m.md)
