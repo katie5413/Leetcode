@@ -39,6 +39,7 @@
   * [Reverse Substrings Between Each Pair of Parentheses (M)](string/reverse-substrings-between-each-pair-of-parentheses-m.md)
   * [Shortest Palindrome (H)](string/shortest-palindrome-h.md)
 * [Math](math/README.md)
+  * [Ugly Number (E)](math/ugly-number-e.md)
   * [Pass the Pillow (E)](math/pass-the-pillow-e.md)
   * [Water Bottles (E)](math/water-bottles-e.md)
   * [Find the Winner of the Circular Game (M)](math/find-the-winner-of-the-circular-game-m.md)
