@@ -14,6 +14,7 @@
   * [Two Sum (E)](array/two-sum-e.md)
   * [Valid Sudoku (E)](array/valid-sudoku-e.md)
   * [Crawler Log Folder (E)](array/crawler-log-folder-e.md)
+  * [Distance Between Bus Stops (E)](array/distance-between-bus-stops-e.md)
   * [3Sum (M)](array/3sum-m.md)
   * [Find the Student that Will Replace the Chalk (M)](array/find-the-student-that-will-replace-the-chalk-m.md)
   * [Minimum Difference Between Largest and Smallest Value in Three Moves (M)](array/minimum-difference-between-largest-and-smallest-value-in-three-moves-m.md)
