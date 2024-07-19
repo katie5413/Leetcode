@@ -14,6 +14,7 @@
   * [Two Sum (E)](array/two-sum-e.md)
   * [Valid Sudoku (E)](array/valid-sudoku-e.md)
   * [Crawler Log Folder (E)](array/crawler-log-folder-e.md)
+  * [Lucky Numbers in a Matrix (E)](array/lucky-numbers-in-a-matrix-e.md)
   * [Distance Between Bus Stops (E)](array/distance-between-bus-stops-e.md)
   * [Find the Distance Value Between Two Arrays (E)](array/find-the-distance-value-between-two-arrays-e.md)
   * [3Sum (M)](array/3sum-m.md)
