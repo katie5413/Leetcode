@@ -53,6 +53,7 @@
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
   * [Min Cost Climbing Stairs (E)](dynamic-programming/min-cost-climbing-stairs-e.md)
   * [Perfect Squares (M)](dynamic-programming/perfect-squares-m.md)
+  * [Get the Maximum Score (H)](dynamic-programming/get-the-maximum-score-h.md)
 * [Stack](stack/README.md)
   * [Maximum Score From Removing Substrings (M)](stack/maximum-score-from-removing-substrings-m.md)
   * [Number of Atoms (H)](stack/number-of-atoms-h.md)
