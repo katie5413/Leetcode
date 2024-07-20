@@ -1,4 +1,8 @@
-# Perfect Squares
+# Perfect Squares (M)
+
+[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
 
 Given an integer `n`, return _the least number of perfect square numbers that sum to_ `n`.
 
@@ -51,7 +55,18 @@ function numSquares(n: number): number {
 }
 ```
 
+假設要計算 n = 12，且已經計算到 dp\[12]：\
+用小於 n 的每個平方數去扣掉
 
+* 計算 dp\[12]:
+* 使用平方數 1^2 = 1： 12-1=11
+  * dp\[12] = Math.min(Infinity, dp\[11] + 1) = 4
+* 使用平方數 2^2 = 4：12-4=8
+  * dp\[12] = Math.min(4, dp\[8] + 1) = 3
+* 使用平方數 3^2 = 9：12-9=3
+  * dp\[12] = Math.min(3, dp\[3] + 1) = 3
+* 更新後的 dp 陣列：
+  * dp = \[0, 1, 2, 3, 1, 2, 3, 4, 2, 1, 2, 3, 3]
 
 ### Recursion
 

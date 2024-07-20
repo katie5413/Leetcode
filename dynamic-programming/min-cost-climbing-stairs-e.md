@@ -1,10 +1,8 @@
 # Min Cost Climbing Stairs (E)
 
-Related to&#x20;
+[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 
-{% content-ref url="climbing-stairs-e.md" %}
-[climbing-stairs-e.md](climbing-stairs-e.md)
-{% endcontent-ref %}
+Related to  [climbing-stairs-e.md](climbing-stairs-e.md "mention")
 
 
 
