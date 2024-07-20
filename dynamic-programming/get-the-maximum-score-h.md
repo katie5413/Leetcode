@@ -93,3 +93,34 @@ function maxSum(nums1: number[], nums2: number[]): number {
     return result % MOD;
 }
 ```
+
+
+
+### 從尾巴
+
+```typescript
+function maxSum(nums1: number[], nums2: number[]): number {
+    const MOD = 1_000_000_007;
+    let m = nums1.length;
+    let n = nums2.length;
+    let i = m - 1;
+    let j = n - 1;
+    let sum1 = 0;
+    let sum2 = 0;
+    
+    while (i >= 0 || j >= 0) {
+        if (i >= 0 && (j < 0 || nums1[i] > nums2[j])) {
+            sum1 += nums1[i--];
+        } else if (j >= 0 && (i < 0 || nums1[i] < nums2[j])) {
+            sum2 += nums2[j--];
+        } else {
+            sum1 = sum2 = Math.max(sum1, sum2) + nums1[i];
+            i--;
+            j--;
+        }
+    }
+    
+    return Math.max(sum1, sum2) % MOD;
+}
+
+```
