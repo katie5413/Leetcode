@@ -20,6 +20,7 @@
   * [3Sum (M)](array/3sum-m.md)
   * [Find the Student that Will Replace the Chalk (M)](array/find-the-student-that-will-replace-the-chalk-m.md)
   * [Minimum Difference Between Largest and Smallest Value in Three Moves (M)](array/minimum-difference-between-largest-and-smallest-value-in-three-moves-m.md)
+  * [Sort the People (E)](array/sort-the-people-e.md)
 * [Linked List](linked-list/README.md)
   * [Design HashMap (E)](linked-list/design-hashmap-e.md)
   * [Merge Nodes in Between Zeros (M)](linked-list/merge-nodes-in-between-zeros-m.md)
