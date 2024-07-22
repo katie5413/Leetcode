@@ -48,6 +48,7 @@
   * [Pass the Pillow (E)](math/pass-the-pillow-e.md)
   * [Water Bottles (E)](math/water-bottles-e.md)
   * [Find the Winner of the Circular Game (M)](math/find-the-winner-of-the-circular-game-m.md)
+  * [Find Number of Ways to Reach the K-th Stair (H)](math/find-number-of-ways-to-reach-the-k-th-stair-h.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
   * [Min Cost Climbing Stairs (E)](dynamic-programming/min-cost-climbing-stairs-e.md)
