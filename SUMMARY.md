@@ -66,3 +66,4 @@
   * [Find Valid Matrix Given Row and Column Sums (M)](matrix/find-valid-matrix-given-row-and-column-sums-m.md)
   * [Rotate Image (M)](matrix/rotate-image-m.md)
   * [Get the Maximum Score (H)](matrix/get-the-maximum-score-h.md)
+  * [Build a Matrix With Conditions (H)](matrix/build-a-matrix-with-conditions-h.md)
