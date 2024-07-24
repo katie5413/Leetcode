@@ -69,5 +69,6 @@
   * [Get the Maximum Score (H)](matrix/get-the-maximum-score-h.md)
   * [Build a Matrix With Conditions (H)](matrix/build-a-matrix-with-conditions-h.md)
 * [Sort](sort/README.md)
-  * [Sort the People (E)](sort/sort-the-people-e.md)
+  * [Sort the People (E)](array/sort-the-people-e.md)
   * [Sort Array by Increasing Frequency (E)](sort/sort-array-by-increasing-frequency-e.md)
+  * [Sort the Jumbled Numbers (M)](sort/sort-the-jumbled-numbers-m.md)
