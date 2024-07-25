@@ -73,3 +73,4 @@
   * [Sort Array by Increasing Frequency (E)](sort/sort-array-by-increasing-frequency-e.md)
   * [Sort the Jumbled Numbers (M)](sort/sort-the-jumbled-numbers-m.md)
   * [Sort Colors (M)](sort/sort-colors-m.md)
+  * [Sort List (M)](sort/sort-list-m.md)
