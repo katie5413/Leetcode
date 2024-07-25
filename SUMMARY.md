@@ -25,6 +25,7 @@
   * [Merge Nodes in Between Zeros (M)](linked-list/merge-nodes-in-between-zeros-m.md)
   * [Rotate List (M)](linked-list/rotate-list-m.md)
   * [Delete Node in a Linked List (M)](linked-list/delete-node-in-a-linked-list-m.md)
+  * [Remove Nth Node From End of List (M)](linked-list/remove-nth-node-from-end-of-list-m.md)
 * [String](string/README.md)
   * [Reverse String (E)](string/reverse-string-e.md)
   * [Roman to Integer (E)](string/roman-to-integer-e.md)
