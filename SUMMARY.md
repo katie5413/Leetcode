@@ -70,6 +70,7 @@
   * [Build a Matrix With Conditions (H)](matrix/build-a-matrix-with-conditions-h.md)
 * [Sort](sort/README.md)
   * [Sort the People (E)](array/sort-the-people-e.md)
+  * [Sort an Array (M)](sort/sort-an-array-m.md)
   * [Sort Array by Increasing Frequency (E)](sort/sort-array-by-increasing-frequency-e.md)
   * [Sort the Jumbled Numbers (M)](sort/sort-the-jumbled-numbers-m.md)
   * [Sort Colors (M)](sort/sort-colors-m.md)
