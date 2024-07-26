@@ -30,7 +30,7 @@ _palindrome or_ `false` _otherwise_.
 
 **Constraints:**
 
-* The number of nodes in the list is in the range `[1, 105]`.
+* The number of nodes in the list is in the range `[1, 10^5]`.
 * `0 <= Node.val <= 9`
 
 &#x20;

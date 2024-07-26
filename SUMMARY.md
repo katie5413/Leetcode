@@ -22,6 +22,7 @@
   * [Minimum Difference Between Largest and Smallest Value in Three Moves (M)](array/minimum-difference-between-largest-and-smallest-value-in-three-moves-m.md)
 * [Linked List](linked-list/README.md)
   * [Design HashMap (E)](linked-list/design-hashmap-e.md)
+  * [Linked List Cycle (E)](linked-list/linked-list-cycle-e.md)
   * [Reverse Linked List (E)](linked-list/reverse-linked-list-e.md)
   * [Palindrome Linked List (E)](linked-list/palindrome-linked-list-e.md)
   * [Merge Two Sorted Lists (E)](linked-list/merge-two-sorted-lists-e.md)
