@@ -22,6 +22,7 @@
   * [Minimum Difference Between Largest and Smallest Value in Three Moves (M)](array/minimum-difference-between-largest-and-smallest-value-in-three-moves-m.md)
 * [Linked List](linked-list/README.md)
   * [Design HashMap (E)](linked-list/design-hashmap-e.md)
+  * [Reverse Linked List (E)](linked-list/reverse-linked-list-e.md)
   * [Merge Nodes in Between Zeros (M)](linked-list/merge-nodes-in-between-zeros-m.md)
   * [Rotate List (M)](linked-list/rotate-list-m.md)
   * [Delete Node in a Linked List (M)](linked-list/delete-node-in-a-linked-list-m.md)
