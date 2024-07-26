@@ -23,6 +23,7 @@
 * [Linked List](linked-list/README.md)
   * [Design HashMap (E)](linked-list/design-hashmap-e.md)
   * [Reverse Linked List (E)](linked-list/reverse-linked-list-e.md)
+  * [Palindrome Linked List (E)](linked-list/palindrome-linked-list-e.md)
   * [Merge Two Sorted Lists (E)](linked-list/merge-two-sorted-lists-e.md)
   * [Merge Nodes in Between Zeros (M)](linked-list/merge-nodes-in-between-zeros-m.md)
   * [Rotate List (M)](linked-list/rotate-list-m.md)
