@@ -2,6 +2,8 @@
 
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
+Related to [minimum-depth-of-binary-tree-e.md](minimum-depth-of-binary-tree-e.md "mention")
+
 
 
 Given the `root` of a binary tree, return _its maximum depth_.
