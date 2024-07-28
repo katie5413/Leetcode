@@ -62,6 +62,7 @@
   * [Perfect Squares (M)](dynamic-programming/perfect-squares-m.md)
   * [Find the City With the Smallest Number of Neighbors at a Threshold Distance (M)](dynamic-programming/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance-m.md)
 * [Stack](stack/README.md)
+  * [Backspace String Compare (E)](stack/backspace-string-compare-e.md)
   * [Maximum Score From Removing Substrings (M)](stack/maximum-score-from-removing-substrings-m.md)
   * [Number of Atoms (H)](stack/number-of-atoms-h.md)
 * [Tree](tree/README.md)
