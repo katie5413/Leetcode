@@ -87,3 +87,4 @@
   * [Sort List (M)](sort/sort-list-m.md)
 * [Graph](graph/README.md)
   * [Minimum Cost to Convert String I (M)](graph/minimum-cost-to-convert-string-i-m.md)
+  * [Second Minimum Time to Reach Destination (H)](graph/second-minimum-time-to-reach-destination-h.md)
