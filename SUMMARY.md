@@ -61,6 +61,7 @@
   * [Min Cost Climbing Stairs (E)](dynamic-programming/min-cost-climbing-stairs-e.md)
   * [Perfect Squares (M)](dynamic-programming/perfect-squares-m.md)
   * [Find the City With the Smallest Number of Neighbors at a Threshold Distance (M)](dynamic-programming/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance-m.md)
+  * [Count Number of Teams (M)](dynamic-programming/count-number-of-teams-m.md)
 * [Stack](stack/README.md)
   * [Backspace String Compare (E)](stack/backspace-string-compare-e.md)
   * [Maximum Score From Removing Substrings (M)](stack/maximum-score-from-removing-substrings-m.md)
