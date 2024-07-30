@@ -90,3 +90,5 @@
 * [Graph](graph/README.md)
   * [Minimum Cost to Convert String I (M)](graph/minimum-cost-to-convert-string-i-m.md)
   * [Second Minimum Time to Reach Destination (H)](graph/second-minimum-time-to-reach-destination-h.md)
+* [Greedy](greedy/README.md)
+  * [Maximize Happiness of Selected Children (M)](greedy/maximize-happiness-of-selected-children-m.md)
