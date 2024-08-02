@@ -33,6 +33,7 @@
 * [String](string/README.md)
   * [Reverse String (E)](string/reverse-string-e.md)
   * [Roman to Integer (E)](string/roman-to-integer-e.md)
+  * [Number of Senior Citizens (E)](string/number-of-senior-citizens-e.md)
   * [First Unique Character in a String (E)](string/first-unique-character-in-a-string-e.md)
   * [Find the Index of the First Occurrence in a String (E)](string/find-the-index-of-the-first-occurrence-in-a-string-e.md)
   * [Longest Common Prefix (E)](string/longest-common-prefix-e.md)
