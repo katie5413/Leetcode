@@ -99,5 +99,6 @@
   * [Second Minimum Time to Reach Destination (H)](graph/second-minimum-time-to-reach-destination-h.md)
 * [Greedy](greedy/README.md)
   * [Maximize Happiness of Selected Children (M)](greedy/maximize-happiness-of-selected-children-m.md)
+  * [Minimum Number of Pushes to Type Word II (M)](greedy/minimum-number-of-pushes-to-type-word-ii-m.md)
 * [Sliding Window](sliding-window/README.md)
   * [Minimum Swaps to Group All 1's Together II (M)](sliding-window/minimum-swaps-to-group-all-1s-together-ii-m.md)
