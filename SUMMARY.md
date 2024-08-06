@@ -50,6 +50,7 @@
   * [Palindromic Substrings (M)](string/palindromic-substrings-m.md)
   * [Longest Palindromic Substring (M)](string/longest-palindromic-substring-m.md)
   * [Reverse Substrings Between Each Pair of Parentheses (M)](string/reverse-substrings-between-each-pair-of-parentheses-m.md)
+  * [Compare Version Numbers (M)](string/compare-version-numbers-m.md)
   * [Shortest Palindrome (H)](string/shortest-palindrome-h.md)
 * [Math](math/README.md)
   * [Ugly Number (E)](math/ugly-number-e.md)
