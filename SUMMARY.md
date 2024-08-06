@@ -105,3 +105,4 @@
 * [Backtracking](backtracking/README.md)
   * [Generate Parentheses (M)](backtracking/generate-parentheses-m.md)
   * [Letter Combinations of a Phone Number (M)](backtracking/letter-combinations-of-a-phone-number-m.md)
+  * [Sudoku Solver (H)](backtracking/sudoku-solver-h.md)
