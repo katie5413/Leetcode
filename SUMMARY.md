@@ -60,6 +60,7 @@
   * [Find the Winner of the Circular Game (M)](math/find-the-winner-of-the-circular-game-m.md)
   * [Find Number of Ways to Reach the K-th Stair (H)](math/find-number-of-ways-to-reach-the-k-th-stair-h.md)
   * [Subarray Sums Divisible by K (M)](math/subarray-sums-divisible-by-k-m.md)
+  * [Integer to English Words (H)](math/integer-to-english-words-h.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
   * [Min Cost Climbing Stairs (E)](dynamic-programming/min-cost-climbing-stairs-e.md)
