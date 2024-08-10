@@ -106,6 +106,7 @@
 * [Sliding Window](sliding-window/README.md)
   * [Minimum Swaps to Group All 1's Together II (M)](sliding-window/minimum-swaps-to-group-all-1s-together-ii-m.md)
 * [Backtracking](backtracking/README.md)
+  * [Permutations (M)](backtracking/permutations-m.md)
   * [Generate Parentheses (M)](backtracking/generate-parentheses-m.md)
   * [Combination Sum (M)](backtracking/combination-sum-m.md)
   * [Letter Combinations of a Phone Number (M)](backtracking/letter-combinations-of-a-phone-number-m.md)
