@@ -113,3 +113,5 @@
   * [Combination Sum (M)](backtracking/combination-sum-m.md)
   * [Letter Combinations of a Phone Number (M)](backtracking/letter-combinations-of-a-phone-number-m.md)
   * [Sudoku Solver (H)](backtracking/sudoku-solver-h.md)
+* [Design](design/README.md)
+  * [Kth Largest Element in a Stream (E)](design/kth-largest-element-in-a-stream-e.md)
