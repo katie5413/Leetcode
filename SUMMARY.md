@@ -111,6 +111,7 @@
   * [Permutations (M)](backtracking/permutations-m.md)
   * [Generate Parentheses (M)](backtracking/generate-parentheses-m.md)
   * [Combination Sum (M)](backtracking/combination-sum-m.md)
+  * [Combination Sum II (M)](backtracking/combination-sum-ii-m.md)
   * [Letter Combinations of a Phone Number (M)](backtracking/letter-combinations-of-a-phone-number-m.md)
   * [Sudoku Solver (H)](backtracking/sudoku-solver-h.md)
 * [Design](design/README.md)
