@@ -99,6 +99,7 @@
   * [Sort Colors (M)](sort/sort-colors-m.md)
   * [Sort List (M)](sort/sort-list-m.md)
   * [Range Sum of Sorted Subarray Sums (M)](sort/range-sum-of-sorted-subarray-sums-m.md)
+  * [Find K-th Smallest Pair Distance (H)](sort/find-k-th-smallest-pair-distance-h.md)
 * [Graph](graph/README.md)
   * [Minimum Cost to Convert String I (M)](graph/minimum-cost-to-convert-string-i-m.md)
   * [Second Minimum Time to Reach Destination (H)](graph/second-minimum-time-to-reach-destination-h.md)
