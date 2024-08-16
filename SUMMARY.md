@@ -104,6 +104,7 @@
   * [Minimum Cost to Convert String I (M)](graph/minimum-cost-to-convert-string-i-m.md)
   * [Second Minimum Time to Reach Destination (H)](graph/second-minimum-time-to-reach-destination-h.md)
 * [Greedy](greedy/README.md)
+  * [Lemonade Change (E)](greedy/lemonade-change-e.md)
   * [Maximize Happiness of Selected Children (M)](greedy/maximize-happiness-of-selected-children-m.md)
   * [Minimum Number of Pushes to Type Word II (M)](greedy/minimum-number-of-pushes-to-type-word-ii-m.md)
 * [Sliding Window](sliding-window/README.md)
