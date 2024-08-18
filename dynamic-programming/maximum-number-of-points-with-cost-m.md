@@ -123,3 +123,8 @@ function maxPoints(points: number[][]): number {
     return Math.max(...dp); // 返回最後一行的最大得分
 }
 ```
+
+<figure><img src="../.gitbook/assets/截圖 2024-08-18 下午6.50.35.png" alt=""><figcaption></figcaption></figure>
+
+
+
