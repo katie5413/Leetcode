@@ -62,6 +62,7 @@
   * [Find Number of Ways to Reach the K-th Stair (H)](math/find-number-of-ways-to-reach-the-k-th-stair-h.md)
   * [Subarray Sums Divisible by K (M)](math/subarray-sums-divisible-by-k-m.md)
   * [Task Scheduler (M)](math/task-scheduler-m.md)
+  * [2 Keys Keyboard (M)](math/2-keys-keyboard-m.md)
   * [Integer to English Words (H)](math/integer-to-english-words-h.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
