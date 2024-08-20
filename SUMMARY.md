@@ -68,6 +68,7 @@
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
   * [Min Cost Climbing Stairs (E)](dynamic-programming/min-cost-climbing-stairs-e.md)
   * [Maximum Number of Points with Cost (M)](dynamic-programming/maximum-number-of-points-with-cost-m.md)
+  * [Stone Game II (M)](dynamic-programming/stone-game-ii-m.md)
   * [Perfect Squares (M)](dynamic-programming/perfect-squares-m.md)
   * [Find the City With the Smallest Number of Neighbors at a Threshold Distance (M)](dynamic-programming/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance-m.md)
   * [Count Number of Teams (M)](dynamic-programming/count-number-of-teams-m.md)
