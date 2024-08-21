@@ -74,6 +74,7 @@
   * [Count Number of Teams (M)](dynamic-programming/count-number-of-teams-m.md)
   * [Minimum Deletions to Make String Balanced (M)](dynamic-programming/minimum-deletions-to-make-string-balanced-m.md)
   * [Filling Bookcase Shelves (M)](dynamic-programming/filling-bookcase-shelves-m.md)
+  * [Strange Printer (H)](dynamic-programming/strange-printer-h.md)
 * [Stack](stack/README.md)
   * [Backspace String Compare (E)](stack/backspace-string-compare-e.md)
   * [Maximum Score From Removing Substrings (M)](stack/maximum-score-from-removing-substrings-m.md)
