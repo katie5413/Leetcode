@@ -40,6 +40,25 @@ A **valid BST** is defined as follows:
 
 
 
+### Recursive
+
+```typescript
+function isValidBST(root: TreeNode | null): boolean {
+    function visit(node: TreeNode | null, min: number, max: number) {
+        if (!node) return true
+        if (node.val > min && node.val < max) {
+            return (visit(node.left, min, node.val) && visit(node.right, node.val, max))
+        }
+        return false
+    }
+    return visit(root, -Infinity, Infinity)
+};
+```
+
+
+
+### 改造 Function 加入 min, max
+
 ```typescript
 function isValidBST(root: TreeNode|null, min = -Infinity, max = Infinity): boolean {
   // 如果節點為 null，表示到達葉節點的末端，返回 true（因為空樹是有效的 BST）
