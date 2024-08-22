@@ -53,6 +53,7 @@
   * [Compare Version Numbers (M)](string/compare-version-numbers-m.md)
   * [Shortest Palindrome (H)](string/shortest-palindrome-h.md)
 * [Math](math/README.md)
+  * [Number Complement (E)](math/number-complement-e.md)
   * [Ugly Number (E)](math/ugly-number-e.md)
   * [Pass the Pillow (E)](math/pass-the-pillow-e.md)
   * [Water Bottles (E)](math/water-bottles-e.md)
