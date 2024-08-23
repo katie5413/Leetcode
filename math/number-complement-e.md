@@ -2,6 +2,8 @@
 
 [476. Number Complement](https://leetcode.com/problems/number-complement/)
 
+Related to [complement-of-base-10-integer-e.md](complement-of-base-10-integer-e.md "mention")
+
 
 
 The **complement** of an integer is the integer you get when you flip all the `0`'s to `1`'s and all the `1`'s to `0`'s in its binary representation.
