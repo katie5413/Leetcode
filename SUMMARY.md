@@ -67,6 +67,7 @@
   * [Task Scheduler (M)](math/task-scheduler-m.md)
   * [2 Keys Keyboard (M)](math/2-keys-keyboard-m.md)
   * [Integer to English Words (H)](math/integer-to-english-words-h.md)
+  * [Find the Closest Palindrome (H)](math/find-the-closest-palindrome-h.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
   * [Min Cost Climbing Stairs (E)](dynamic-programming/min-cost-climbing-stairs-e.md)
