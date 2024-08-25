@@ -104,6 +104,7 @@
 * [Sort](sort/README.md)
   * [Sort the People (E)](array/sort-the-people-e.md)
   * [Make Two Arrays Equal by Reversing Subarrays (E)](sort/make-two-arrays-equal-by-reversing-subarrays-e.md)
+  * [Merge Sorted Array (E)](sort/merge-sorted-array-e.md)
   * [Sort Array by Increasing Frequency (E)](sort/sort-array-by-increasing-frequency-e.md)
   * [Sort an Array (M)](sort/sort-an-array-m.md)
   * [Sort the Jumbled Numbers (M)](sort/sort-the-jumbled-numbers-m.md)

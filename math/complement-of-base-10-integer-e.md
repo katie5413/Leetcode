@@ -39,7 +39,7 @@ Given an integer `n`, return _its complement_.
 
 **Constraints:**
 
-* `0 <= n < 109`
+* `0 <= n < 10^9`
 
 &#x20;
 
