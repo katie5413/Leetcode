@@ -103,6 +103,7 @@
   * [Get the Maximum Score (H)](matrix/get-the-maximum-score-h.md)
   * [Build a Matrix With Conditions (H)](matrix/build-a-matrix-with-conditions-h.md)
   * [Minimum Number of Days to Disconnect Island (H)](matrix/minimum-number-of-days-to-disconnect-island-h.md)
+  * [Count Sub Islands (M)](matrix/count-sub-islands-m.md)
 * [Sort](sort/README.md)
   * [Sort the People (E)](array/sort-the-people-e.md)
   * [Make Two Arrays Equal by Reversing Subarrays (E)](sort/make-two-arrays-equal-by-reversing-subarrays-e.md)
