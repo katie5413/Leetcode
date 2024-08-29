@@ -136,3 +136,5 @@
   * [Sudoku Solver (H)](backtracking/sudoku-solver-h.md)
 * [Design](design/README.md)
   * [Kth Largest Element in a Stream (E)](design/kth-largest-element-in-a-stream-e.md)
+* [Union Find](union-find/README.md)
+  * [Most Stones Removed with Same Row or Column (M)](union-find/most-stones-removed-with-same-row-or-column-m.md)
