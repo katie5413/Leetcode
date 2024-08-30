@@ -119,6 +119,7 @@
   * [Path with Maximum Probability (M)](graph/path-with-maximum-probability-m.md)
   * [Minimum Cost to Convert String I (M)](graph/minimum-cost-to-convert-string-i-m.md)
   * [Second Minimum Time to Reach Destination (H)](graph/second-minimum-time-to-reach-destination-h.md)
+  * [Modify Graph Edge Weights (H)](graph/modify-graph-edge-weights-h.md)
 * [Greedy](greedy/README.md)
   * [Lemonade Change (E)](greedy/lemonade-change-e.md)
   * [Maximum Distance in Arrays (M)](greedy/maximum-distance-in-arrays-m.md)
