@@ -96,6 +96,7 @@
   * [Delete Nodes And Return Forest (M)](tree/delete-nodes-and-return-forest-m.md)
   * [Number of Good Leaf Nodes Pairs (M)](tree/number-of-good-leaf-nodes-pairs-m.md)
 * [Matrix](matrix/README.md)
+  * [Convert 1D Array Into 2D Array (E)](matrix/convert-1d-array-into-2d-array-e.md)
   * [Regions Cut By Slashes (M)](matrix/regions-cut-by-slashes-m.md)
   * [Find Valid Matrix Given Row and Column Sums (M)](matrix/find-valid-matrix-given-row-and-column-sums-m.md)
   * [Rotate Image (M)](matrix/rotate-image-m.md)
