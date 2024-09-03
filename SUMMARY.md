@@ -33,6 +33,7 @@
   * [Remove Nth Node From End of List (M)](linked-list/remove-nth-node-from-end-of-list-m.md)
 * [String](string/README.md)
   * [Reverse String (E)](string/reverse-string-e.md)
+  * [Sum of Digits of String After Convert (E)](string/sum-of-digits-of-string-after-convert-e.md)
   * [Roman to Integer (E)](string/roman-to-integer-e.md)
   * [Number of Senior Citizens (E)](string/number-of-senior-citizens-e.md)
   * [First Unique Character in a String (E)](string/first-unique-character-in-a-string-e.md)
