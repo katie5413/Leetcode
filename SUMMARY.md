@@ -28,6 +28,7 @@
   * [Reverse Linked List (E)](linked-list/reverse-linked-list-e.md)
   * [Palindrome Linked List (E)](linked-list/palindrome-linked-list-e.md)
   * [Merge Two Sorted Lists (E)](linked-list/merge-two-sorted-lists-e.md)
+  * [Delete Nodes From Linked List Present in Array (M)](linked-list/delete-nodes-from-linked-list-present-in-array-m.md)
   * [Merge Nodes in Between Zeros (M)](linked-list/merge-nodes-in-between-zeros-m.md)
   * [Rotate List (M)](linked-list/rotate-list-m.md)
   * [Delete Node in a Linked List (M)](linked-list/delete-node-in-a-linked-list-m.md)
