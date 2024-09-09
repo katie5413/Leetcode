@@ -105,6 +105,7 @@
   * [Convert 1D Array Into 2D Array (E)](matrix/convert-1d-array-into-2d-array-e.md)
   * [Regions Cut By Slashes (M)](matrix/regions-cut-by-slashes-m.md)
   * [Find Valid Matrix Given Row and Column Sums (M)](matrix/find-valid-matrix-given-row-and-column-sums-m.md)
+  * [Spiral Matrix IV (M)](matrix/spiral-matrix-iv-m.md)
   * [Rotate Image (M)](matrix/rotate-image-m.md)
   * [Spiral Matrix III (M)](matrix/spiral-matrix-iii-m.md)
   * [Count Sub Islands (M)](matrix/count-sub-islands-m.md)
