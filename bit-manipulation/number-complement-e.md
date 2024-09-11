@@ -2,7 +2,7 @@
 
 [476. Number Complement](https://leetcode.com/problems/number-complement/)
 
-Related to [complement-of-base-10-integer-e.md](complement-of-base-10-integer-e.md "mention")
+Related to [complement-of-base-10-integer-e.md](../math/complement-of-base-10-integer-e.md "mention")
 
 
 
