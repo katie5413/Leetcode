@@ -154,3 +154,4 @@
   * [Minimum Bit Flips to Convert Number (E)](bit-manipulation/minimum-bit-flips-to-convert-number-e.md)
   * [Number Complement (E)](bit-manipulation/number-complement-e.md)
   * [XOR Queries of a Subarray (M)](bit-manipulation/xor-queries-of-a-subarray-m.md)
+  * [Longest Subarray With Maximum Bitwise AND (M)](bit-manipulation/longest-subarray-with-maximum-bitwise-and-m.md)
