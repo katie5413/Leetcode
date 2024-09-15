@@ -155,3 +155,4 @@
   * [Number Complement (E)](bit-manipulation/number-complement-e.md)
   * [XOR Queries of a Subarray (M)](bit-manipulation/xor-queries-of-a-subarray-m.md)
   * [Longest Subarray With Maximum Bitwise AND (M)](bit-manipulation/longest-subarray-with-maximum-bitwise-and-m.md)
+  * [Find the Longest Substring Containing Vowels in Even Counts (M)](bit-manipulation/find-the-longest-substring-containing-vowels-in-even-counts-m.md)
