@@ -65,6 +65,7 @@
   * [Pass the Pillow (E)](math/pass-the-pillow-e.md)
   * [Water Bottles (E)](math/water-bottles-e.md)
   * [Find Missing Observations (M)](math/find-missing-observations-m.md)
+  * [Minimum Time Difference (M)](math/minimum-time-difference-m.md)
   * [Fraction Addition and Subtraction (M)](math/fraction-addition-and-subtraction-m.md)
   * [Ugly Number II (M)](math/ugly-number-ii-m.md)
   * [Count Triplets That Can Form Two Arrays of Equal XOR (M)](math/count-triplets-that-can-form-two-arrays-of-equal-xor-m.md)
