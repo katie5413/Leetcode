@@ -37,6 +37,7 @@
   * [Insert Greatest Common Divisors in Linked List (M)](linked-list/insert-greatest-common-divisors-in-linked-list-m.md)
   * [Remove Nth Node From End of List (M)](linked-list/remove-nth-node-from-end-of-list-m.md)
 * [String](string/README.md)
+  * [Palindrome Number (E)](string/palindrome-number-e.md)
   * [Count Common Words With One Occurrence (E)](string/count-common-words-with-one-occurrence-e.md)
   * [Count the Number of Consistent Strings (E)](string/count-the-number-of-consistent-strings-e.md)
   * [Reverse String (E)](string/reverse-string-e.md)
