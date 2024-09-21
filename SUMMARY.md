@@ -145,6 +145,7 @@
   * [Minimum Swaps to Group All 1's Together II (M)](sliding-window/minimum-swaps-to-group-all-1s-together-ii-m.md)
   * [Grumpy Bookstore Owner (M)](sliding-window/grumpy-bookstore-owner-m.md)
 * [Backtracking](backtracking/README.md)
+  * [Lexicographical Numbers (M)](backtracking/lexicographical-numbers-m.md)
   * [Permutations (M)](backtracking/permutations-m.md)
   * [Generate Parentheses (M)](backtracking/generate-parentheses-m.md)
   * [Combination Sum (M)](backtracking/combination-sum-m.md)
