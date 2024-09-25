@@ -62,6 +62,7 @@
   * [Reverse Substrings Between Each Pair of Parentheses (M)](string/reverse-substrings-between-each-pair-of-parentheses-m.md)
   * [Compare Version Numbers (M)](string/compare-version-numbers-m.md)
   * [Shortest Palindrome (H)](string/shortest-palindrome-h.md)
+  * [Sum of Prefix Scores of Strings (H)](string/sum-of-prefix-scores-of-strings-h.md)
 * [Math](math/README.md)
   * [Complement of Base 10 Integer (E)](math/complement-of-base-10-integer-e.md)
   * [Ugly Number (E)](math/ugly-number-e.md)
