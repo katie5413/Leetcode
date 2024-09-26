@@ -158,6 +158,7 @@
   * [K-th Smallest in Lexicographical Order (H)](backtracking/k-th-smallest-in-lexicographical-order-h.md)
 * [Design](design/README.md)
   * [Kth Largest Element in a Stream (E)](design/kth-largest-element-in-a-stream-e.md)
+  * [My Calendar I (M)](design/my-calendar-i-m.md)
 * [Union Find](union-find/README.md)
   * [Most Stones Removed with Same Row or Column (M)](union-find/most-stones-removed-with-same-row-or-column-m.md)
 * [Bit Manipulation](bit-manipulation/README.md)
