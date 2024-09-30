@@ -162,6 +162,7 @@
   * [My Calendar I (M)](design/my-calendar-i-m.md)
   * [My Calendar II (M)](design/my-calendar-ii-m.md)
   * [Design Circular Deque (M)](design/design-circular-deque-m.md)
+  * [Design a Stack With Increment Operation (M)](design/design-a-stack-with-increment-operation-m.md)
   * [All O\`one Data Structure (H)](design/all-o-one-data-structure-h.md)
 * [Union Find](union-find/README.md)
   * [Most Stones Removed with Same Row or Column (M)](union-find/most-stones-removed-with-same-row-or-column-m.md)
