@@ -44,6 +44,10 @@ myCalendarTwo.book(25, 55); // return True, The event can be booked, as the time
 
 
 
+
+
+Ref [https://leetcode.com/problems/my-calendar-ii/solutions/5838176/easy-beats-100-images-fully-explained-dry-run-optimum-solution](https://leetcode.com/problems/my-calendar-ii/solutions/5838176/easy-beats-100-images-fully-explained-dry-run-optimum-solution)
+
 ```typescript
 class MyCalendar {
   private tree: Node | null;
