@@ -124,6 +124,7 @@
   * [Build a Matrix With Conditions (H)](matrix/build-a-matrix-with-conditions-h.md)
   * [Minimum Number of Days to Disconnect Island (H)](matrix/minimum-number-of-days-to-disconnect-island-h.md)
 * [Sort](sort/README.md)
+  * [Rank Transform of an Array (E)](sort/rank-transform-of-an-array-e.md)
   * [Sort the People (E)](sort/sort-the-people-e.md)
   * [Make Two Arrays Equal by Reversing Subarrays (E)](sort/make-two-arrays-equal-by-reversing-subarrays-e.md)
   * [Merge Sorted Array (E)](sort/merge-sorted-array-e.md)
