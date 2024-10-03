@@ -78,6 +78,7 @@
   * [Find the Winner of the Circular Game (M)](math/find-the-winner-of-the-circular-game-m.md)
   * [Find Number of Ways to Reach the K-th Stair (H)](math/find-number-of-ways-to-reach-the-k-th-stair-h.md)
   * [Subarray Sums Divisible by K (M)](math/subarray-sums-divisible-by-k-m.md)
+  * [Make Sum Divisible by P (M)](math/make-sum-divisible-by-p-m.md)
   * [Task Scheduler (M)](math/task-scheduler-m.md)
   * [2 Keys Keyboard (M)](math/2-keys-keyboard-m.md)
   * [Integer to English Words (H)](math/integer-to-english-words-h.md)
