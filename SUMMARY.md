@@ -20,6 +20,7 @@
   * [Find the Distance Value Between Two Arrays (E)](array/find-the-distance-value-between-two-arrays-e.md)
   * [Walking Robot Simulation (M)](array/walking-robot-simulation-m.md)
   * [Check If Array Pairs Are Divisible by k (M)](array/check-if-array-pairs-are-divisible-by-k-m.md)
+  * [Divide Players Into Teams of Equal Skill (M)](array/divide-players-into-teams-of-equal-skill-m.md)
   * [3Sum (M)](array/3sum-m.md)
   * [Find the Student that Will Replace the Chalk (M)](array/find-the-student-that-will-replace-the-chalk-m.md)
   * [Minimum Difference Between Largest and Smallest Value in Three Moves (M)](array/minimum-difference-between-largest-and-smallest-value-in-three-moves-m.md)
