@@ -54,6 +54,7 @@
   * [Valid Palindrome (E)](string/valid-palindrome-e.md)
   * [Valid Anagram (E)](string/valid-anagram-e.md)
   * [Group Anagrams (M)](string/group-anagrams-m.md)
+  * [Sentence Similarity III (M)](string/sentence-similarity-iii-m.md)
   * [Integer to Roman (M)](string/integer-to-roman-m.md)
   * [Find the Length of the Longest Common Prefix (M)](string/find-the-length-of-the-longest-common-prefix-m.md)
   * [String to Integer (atoi) (M)](string/string-to-integer-atoi-m.md)
