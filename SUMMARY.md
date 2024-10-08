@@ -148,6 +148,7 @@
 * [Greedy](greedy/README.md)
   * [Lemonade Change (E)](greedy/lemonade-change-e.md)
   * [Largest Number (M)](greedy/largest-number-m.md)
+  * [Minimum Number of Swaps to Make the String Balanced (M)](greedy/minimum-number-of-swaps-to-make-the-string-balanced-m.md)
   * [Maximum Distance in Arrays (M)](greedy/maximum-distance-in-arrays-m.md)
   * [Maximize Happiness of Selected Children (M)](greedy/maximize-happiness-of-selected-children-m.md)
   * [Minimum Number of Pushes to Type Word II (M)](greedy/minimum-number-of-pushes-to-type-word-ii-m.md)
