@@ -103,6 +103,7 @@
   * [Backspace String Compare (E)](stack/backspace-string-compare-e.md)
   * [Minimum String Length After Removing Substrings (E)](stack/minimum-string-length-after-removing-substrings-e.md)
   * [Maximum Score From Removing Substrings (M)](stack/maximum-score-from-removing-substrings-m.md)
+  * [Maximum Width Ramp (M)](stack/maximum-width-ramp-m.md)
   * [Number of Atoms (H)](stack/number-of-atoms-h.md)
 * [Tree](tree/README.md)
   * [N-ary Tree Postorder Traversal (E)](tree/n-ary-tree-postorder-traversal-e.md)
