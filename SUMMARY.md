@@ -184,3 +184,4 @@
   * [Find the Longest Substring Containing Vowels in Even Counts (M)](bit-manipulation/find-the-longest-substring-containing-vowels-in-even-counts-m.md)
 * [Heap](heap/README.md)
   * [The Number of the Smallest Unoccupied Chair (M)](heap/the-number-of-the-smallest-unoccupied-chair-m.md)
+  * [Divide Intervals Into Minimum Number of Groups (M)](heap/divide-intervals-into-minimum-number-of-groups-m.md)
