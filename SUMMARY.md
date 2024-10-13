@@ -158,6 +158,7 @@
   * [Minimum Swaps to Group All 1's Together II (M)](sliding-window/minimum-swaps-to-group-all-1s-together-ii-m.md)
   * [Grumpy Bookstore Owner (M)](sliding-window/grumpy-bookstore-owner-m.md)
   * [Permutation in String (M)](sliding-window/permutation-in-string-m.md)
+  * [Smallest Range Covering Elements from K Lists (H)](sliding-window/smallest-range-covering-elements-from-k-lists-h.md)
 * [Backtracking](backtracking/README.md)
   * [Lexicographical Numbers (M)](backtracking/lexicographical-numbers-m.md)
   * [Permutations (M)](backtracking/permutations-m.md)
