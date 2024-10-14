@@ -153,6 +153,7 @@
   * [Minimum Number of Swaps to Make the String Balanced (M)](greedy/minimum-number-of-swaps-to-make-the-string-balanced-m.md)
   * [Maximum Distance in Arrays (M)](greedy/maximum-distance-in-arrays-m.md)
   * [Maximize Happiness of Selected Children (M)](greedy/maximize-happiness-of-selected-children-m.md)
+  * [Maximal Score After Applying K Operations (M)](greedy/maximal-score-after-applying-k-operations-m.md)
   * [Minimum Number of Pushes to Type Word II (M)](greedy/minimum-number-of-pushes-to-type-word-ii-m.md)
 * [Sliding Window](sliding-window/README.md)
   * [Minimum Swaps to Group All 1's Together II (M)](sliding-window/minimum-swaps-to-group-all-1s-together-ii-m.md)
