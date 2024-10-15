@@ -148,6 +148,7 @@
   * [Modify Graph Edge Weights (H)](graph/modify-graph-edge-weights-h.md)
 * [Greedy](greedy/README.md)
   * [Lemonade Change (E)](greedy/lemonade-change-e.md)
+  * [Separate Black and White Balls (M)](greedy/separate-black-and-white-balls-m.md)
   * [Minimum Add to Make Parentheses Valid (M)](greedy/minimum-add-to-make-parentheses-valid-m.md)
   * [Largest Number (M)](greedy/largest-number-m.md)
   * [Minimum Number of Swaps to Make the String Balanced (M)](greedy/minimum-number-of-swaps-to-make-the-string-balanced-m.md)
