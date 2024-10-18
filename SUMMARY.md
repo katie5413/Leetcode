@@ -164,6 +164,7 @@
   * [Permutation in String (M)](sliding-window/permutation-in-string-m.md)
   * [Smallest Range Covering Elements from K Lists (H)](sliding-window/smallest-range-covering-elements-from-k-lists-h.md)
 * [Backtracking](backtracking/README.md)
+  * [Count Number of Maximum Bitwise-OR Subsets (M)](backtracking/count-number-of-maximum-bitwise-or-subsets-m.md)
   * [Lexicographical Numbers (M)](backtracking/lexicographical-numbers-m.md)
   * [Permutations (M)](backtracking/permutations-m.md)
   * [Generate Parentheses (M)](backtracking/generate-parentheses-m.md)
