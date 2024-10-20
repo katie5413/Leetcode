@@ -173,6 +173,7 @@
   * [Combination Sum II (M)](backtracking/combination-sum-ii-m.md)
   * [Letter Combinations of a Phone Number (M)](backtracking/letter-combinations-of-a-phone-number-m.md)
   * [Sudoku Solver (H)](backtracking/sudoku-solver-h.md)
+  * [Parsing A Boolean Expression (H)](backtracking/parsing-a-boolean-expression-h.md)
   * [K-th Smallest in Lexicographical Order (H)](backtracking/k-th-smallest-in-lexicographical-order-h.md)
 * [Design](design/README.md)
   * [Kth Largest Element in a Stream (E)](design/kth-largest-element-in-a-stream-e.md)
