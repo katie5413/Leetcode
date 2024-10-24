@@ -111,6 +111,7 @@
   * [Maximum Depth of Binary Tree (E)](tree/maximum-depth-of-binary-tree-e.md)
   * [Minimum Depth of Binary Tree (E)](tree/minimum-depth-of-binary-tree-e.md)
   * [Subtree of Another Tree (E)](tree/subtree-of-another-tree-e.md)
+  * [Flip Equivalent Binary Trees (M)](tree/flip-equivalent-binary-trees-m.md)
   * [Cousins in Binary Tree II (M)](tree/cousins-in-binary-tree-ii-m.md)
   * [Validate Binary Search Tree (M)](tree/validate-binary-search-tree-m.md)
   * [Kth Largest Sum in a Binary Tree (M)](tree/kth-largest-sum-in-a-binary-tree-m.md)
