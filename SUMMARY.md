@@ -167,6 +167,7 @@
   * [Permutation in String (M)](sliding-window/permutation-in-string-m.md)
   * [Smallest Range Covering Elements from K Lists (H)](sliding-window/smallest-range-covering-elements-from-k-lists-h.md)
 * [Backtracking](backtracking/README.md)
+  * [Remove Sub-Folders from the Filesystem (M)](backtracking/remove-sub-folders-from-the-filesystem-m.md)
   * [Split a String Into the Max Number of Unique Substrings (M)](backtracking/split-a-string-into-the-max-number-of-unique-substrings-m.md)
   * [Find Kth Bit in Nth Binary String (M)](backtracking/find-kth-bit-in-nth-binary-string-m.md)
   * [Count Number of Maximum Bitwise-OR Subsets (M)](backtracking/count-number-of-maximum-bitwise-or-subsets-m.md)
