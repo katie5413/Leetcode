@@ -119,6 +119,7 @@
   * [Step-By-Step Directions From a Binary Tree Node to Another (M)](tree/step-by-step-directions-from-a-binary-tree-node-to-another-m.md)
   * [Delete Nodes And Return Forest (M)](tree/delete-nodes-and-return-forest-m.md)
   * [Number of Good Leaf Nodes Pairs (M)](tree/number-of-good-leaf-nodes-pairs-m.md)
+  * [Height of Binary Tree After Subtree Removal Queries (H)](tree/height-of-binary-tree-after-subtree-removal-queries-h.md)
 * [Matrix](matrix/README.md)
   * [Convert 1D Array Into 2D Array (E)](matrix/convert-1d-array-into-2d-array-e.md)
   * [Regions Cut By Slashes (M)](matrix/regions-cut-by-slashes-m.md)
