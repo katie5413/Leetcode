@@ -122,6 +122,7 @@
   * [Height of Binary Tree After Subtree Removal Queries (H)](tree/height-of-binary-tree-after-subtree-removal-queries-h.md)
 * [Matrix](matrix/README.md)
   * [Convert 1D Array Into 2D Array (E)](matrix/convert-1d-array-into-2d-array-e.md)
+  * [Count Square Submatrices with All Ones (M)](matrix/count-square-submatrices-with-all-ones-m.md)
   * [Regions Cut By Slashes (M)](matrix/regions-cut-by-slashes-m.md)
   * [Find Valid Matrix Given Row and Column Sums (M)](matrix/find-valid-matrix-given-row-and-column-sums-m.md)
   * [Spiral Matrix IV (M)](matrix/spiral-matrix-iv-m.md)
