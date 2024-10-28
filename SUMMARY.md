@@ -90,6 +90,7 @@
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
   * [Min Cost Climbing Stairs (E)](dynamic-programming/min-cost-climbing-stairs-e.md)
   * [Maximum Number of Points with Cost (M)](dynamic-programming/maximum-number-of-points-with-cost-m.md)
+  * [Longest Square Streak in an Array (M)](dynamic-programming/longest-square-streak-in-an-array-m.md)
   * [Different Ways to Add Parentheses (M)](dynamic-programming/different-ways-to-add-parentheses-m.md)
   * [Extra Characters in a String (M)](dynamic-programming/extra-characters-in-a-string-m.md)
   * [Stone Game II (M)](dynamic-programming/stone-game-ii-m.md)
