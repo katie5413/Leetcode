@@ -89,6 +89,7 @@
   * [N-th Tribonacci Number (E)](dynamic-programming/n-th-tribonacci-number-e.md)
   * [Climbing Stairs (E)](dynamic-programming/climbing-stairs-e.md)
   * [Min Cost Climbing Stairs (E)](dynamic-programming/min-cost-climbing-stairs-e.md)
+  * [Maximum Number of Moves in a Grid (M)](dynamic-programming/maximum-number-of-moves-in-a-grid-m.md)
   * [Maximum Number of Points with Cost (M)](dynamic-programming/maximum-number-of-points-with-cost-m.md)
   * [Longest Square Streak in an Array (M)](dynamic-programming/longest-square-streak-in-an-array-m.md)
   * [Different Ways to Add Parentheses (M)](dynamic-programming/different-ways-to-add-parentheses-m.md)
