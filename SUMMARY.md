@@ -101,6 +101,7 @@
   * [Minimum Deletions to Make String Balanced (M)](dynamic-programming/minimum-deletions-to-make-string-balanced-m.md)
   * [Filling Bookcase Shelves (M)](dynamic-programming/filling-bookcase-shelves-m.md)
   * [Strange Printer (H)](dynamic-programming/strange-printer-h.md)
+  * [Minimum Number of Removals to Make Mountain Array (H)](dynamic-programming/minimum-number-of-removals-to-make-mountain-array-h.md)
 * [Stack](stack/README.md)
   * [Backspace String Compare (E)](stack/backspace-string-compare-e.md)
   * [Minimum String Length After Removing Substrings (E)](stack/minimum-string-length-after-removing-substrings-e.md)
