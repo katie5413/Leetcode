@@ -39,6 +39,7 @@
   * [Insert Greatest Common Divisors in Linked List (M)](linked-list/insert-greatest-common-divisors-in-linked-list-m.md)
   * [Remove Nth Node From End of List (M)](linked-list/remove-nth-node-from-end-of-list-m.md)
 * [String](string/README.md)
+  * [Delete Characters to Make Fancy String (E)](string/delete-characters-to-make-fancy-string-e.md)
   * [Score of a String (E)](string/score-of-a-string-e.md)
   * [Palindrome Number (E)](string/palindrome-number-e.md)
   * [Count Common Words With One Occurrence (E)](string/count-common-words-with-one-occurrence-e.md)
