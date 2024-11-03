@@ -71,6 +71,7 @@
   * [Shortest Palindrome (H)](string/shortest-palindrome-h.md)
   * [Sum of Prefix Scores of Strings (H)](string/sum-of-prefix-scores-of-strings-h.md)
 * [Math](math/README.md)
+  * [Sqrt(x) (E)](math/sqrt-x-e.md)
   * [Complement of Base 10 Integer (E)](math/complement-of-base-10-integer-e.md)
   * [Ugly Number (E)](math/ugly-number-e.md)
   * [Pass the Pillow (E)](math/pass-the-pillow-e.md)
