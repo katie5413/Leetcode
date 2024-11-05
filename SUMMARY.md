@@ -60,6 +60,7 @@
   * [String Compression III (M)](string/string-compression-iii-m.md)
   * [Sentence Similarity III (M)](string/sentence-similarity-iii-m.md)
   * [Integer to Roman (M)](string/integer-to-roman-m.md)
+  * [Minimum Number of Changes to Make Binary String Beautiful (M)](string/minimum-number-of-changes-to-make-binary-string-beautiful-m.md)
   * [Find the Length of the Longest Common Prefix (M)](string/find-the-length-of-the-longest-common-prefix-m.md)
   * [String to Integer (atoi) (M)](string/string-to-integer-atoi-m.md)
   * [Longest Ideal Subsequence (M)](string/longest-ideal-subsequence-m.md)
