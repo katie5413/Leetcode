@@ -205,6 +205,8 @@
   * [Minimum Bit Flips to Convert Number (E)](bit-manipulation/minimum-bit-flips-to-convert-number-e.md)
   * [Number Complement (E)](bit-manipulation/number-complement-e.md)
   * [Find if Array Can Be Sorted (M)](bit-manipulation/find-if-array-can-be-sorted-m.md)
+  * [Maximum XOR for Each Query (M)](bit-manipulation/maximum-xor-for-each-query-m.md)
+  * [Minimum Array End (M)](bit-manipulation/minimum-array-end-m.md)
   * [XOR Queries of a Subarray (M)](bit-manipulation/xor-queries-of-a-subarray-m.md)
   * [Largest Combination With Bitwise AND Greater Than Zero (M)](bit-manipulation/largest-combination-with-bitwise-and-greater-than-zero-m.md)
   * [Longest Subarray With Maximum Bitwise AND (M)](bit-manipulation/longest-subarray-with-maximum-bitwise-and-m.md)
