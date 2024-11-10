@@ -209,6 +209,7 @@
   * [Minimum Array End (M)](bit-manipulation/minimum-array-end-m.md)
   * [XOR Queries of a Subarray (M)](bit-manipulation/xor-queries-of-a-subarray-m.md)
   * [Largest Combination With Bitwise AND Greater Than Zero (M)](bit-manipulation/largest-combination-with-bitwise-and-greater-than-zero-m.md)
+  * [Shortest Subarray With OR at Least K II (M)](bit-manipulation/shortest-subarray-with-or-at-least-k-ii-m.md)
   * [Longest Subarray With Maximum Bitwise AND (M)](bit-manipulation/longest-subarray-with-maximum-bitwise-and-m.md)
   * [Find the Longest Substring Containing Vowels in Even Counts (M)](bit-manipulation/find-the-longest-substring-containing-vowels-in-even-counts-m.md)
 * [Heap](heap/README.md)
