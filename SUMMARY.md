@@ -166,6 +166,7 @@
   * [Maximum Swap (M)](greedy/maximum-swap-m.md)
   * [Longest Happy String (M)](greedy/longest-happy-string-m.md)
   * [Separate Black and White Balls (M)](greedy/separate-black-and-white-balls-m.md)
+  * [Prime Subtraction Operation (M)](greedy/prime-subtraction-operation-m.md)
   * [Minimum Add to Make Parentheses Valid (M)](greedy/minimum-add-to-make-parentheses-valid-m.md)
   * [Largest Number (M)](greedy/largest-number-m.md)
   * [Minimum Number of Swaps to Make the String Balanced (M)](greedy/minimum-number-of-swaps-to-make-the-string-balanced-m.md)
