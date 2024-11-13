@@ -150,6 +150,7 @@
   * [Merge Sorted Array (E)](sort/merge-sorted-array-e.md)
   * [Sort Array by Increasing Frequency (E)](sort/sort-array-by-increasing-frequency-e.md)
   * [Sort an Array (M)](sort/sort-an-array-m.md)
+  * [Count the Number of Fair Pairs (M)](sort/count-the-number-of-fair-pairs-m.md)
   * [Most Beautiful Item for Each Query (M)](sort/most-beautiful-item-for-each-query-m.md)
   * [Sort the Jumbled Numbers (M)](sort/sort-the-jumbled-numbers-m.md)
   * [Sort Colors (M)](sort/sort-colors-m.md)
