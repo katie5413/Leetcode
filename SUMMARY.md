@@ -18,6 +18,7 @@
   * [Distance Between Bus Stops (E)](array/distance-between-bus-stops-e.md)
   * [Kth Distinct String in an Array (E)](array/kth-distinct-string-in-an-array-e.md)
   * [Find the Distance Value Between Two Arrays (E)](array/find-the-distance-value-between-two-arrays-e.md)
+  * [Minimized Maximum of Products Distributed to Any Store (M)](array/minimized-maximum-of-products-distributed-to-any-store-m.md)
   * [Walking Robot Simulation (M)](array/walking-robot-simulation-m.md)
   * [Check If Array Pairs Are Divisible by k (M)](array/check-if-array-pairs-are-divisible-by-k-m.md)
   * [Divide Players Into Teams of Equal Skill (M)](array/divide-players-into-teams-of-equal-skill-m.md)
